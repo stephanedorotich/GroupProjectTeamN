@@ -18,6 +18,8 @@ Our aim is to become perceptive and insightful designers by learning about the u
 ### Nick Wasilowsky
 > Ohayo
 
+![Image of Penguin](https://cdn.dribbble.com/users/1044993/screenshots/2728068/sliding_penguin_dribbble.jpg)
+
 ## Project Proposals
 ### Project 1:
 >A desc of proposal 1
