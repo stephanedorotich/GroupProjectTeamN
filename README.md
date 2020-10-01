@@ -14,7 +14,7 @@ avid musician, rock climber, and gamer, enjoying the mental and physical efforts
 > Hey there
 ### Macks Tam
 > Howdy
-### Nick Wasilowsky
+### Nicholas Wasilewski
 > Ohayo
 
 ## Project Proposals
