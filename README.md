@@ -5,9 +5,8 @@ TeamN is a group of dedicated students studying Human-Computer Interaction (HCI)
 Our aim is to become perceptive and insightful designers by studying the user experience and applying our findings
 to our project's development.
 
-### Stephane Dorotic: Coordinator, Editor
-<img src="https://github.com/stephanedorotich/TeamN/blob/stage_one/resources/Stephane.jpg" alt="Stéphane" height="250">
-> Stéphane studies a variety of topics including Sociology, Linguistics, and Psychology, but is currently completing a Bachelor of Computer Science at the University of Calgary. He is interested in the ways we use and abuse technology and would like to design tools that facilitate decision making and consensus building. An avid rock climber, musician, and gamer, Stéphane enjoys anything that engages his mental and physical faculties.
+### Stéphane Dorotich: Coordinator, Editor
+> <img src="https://github.com/stephanedorotich/TeamN/blob/stage_one/resources/Stephane.jpg" alt="Stéphane" height="250"> Stéphane studies a variety of topics including Sociology, Linguistics, and Psychology, but is currently completing a Bachelor of Computer Science at the University of Calgary. He is interested in the ways we use and abuse technology and would like to design tools that facilitate decision making and consensus building. An avid rock climber, musician, and gamer, Stéphane enjoys anything that engages his mental and physical faculties.
 
 ### Kathryn Lepine: UI developer
 <img src="https://github.com/stephanedorotich/TeamN/blob/stage_one/resources/Kathryn.jpg" alt="Kathryn" height="250">
