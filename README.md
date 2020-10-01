@@ -6,23 +6,23 @@ Our aim is to become perceptive and insightful designers by studying the user ex
 to our project's development.
 
 ### Stephane Dorotic: Coordinator, Editor
-![Photo of Stephane](https://github.com/stephanedorotich/TeamN/blob/stage_one/resources/Stephane.jpg) <!-- .element height="50%" width="50%" -->
+<img src="https://github.com/stephanedorotich/TeamN/blob/stage_one/resources/Stephane.jpg" alt="Stéphane" height="250">
 > Stéphane studies a variety of topics including Sociology, Linguistics, and Psychology, but is currently completing a Bachelor of Computer Science at the University of Calgary. He is interested in the ways we use and abuse technology and would like to design tools that facilitate decision making and consensus building. An avid rock climber, musician, and gamer, Stéphane enjoys anything that engages his mental and physical faculties.
 
 ### Kathryn Lepine: UI developer
-![Photo of Kathryn](https://github.com/stephanedorotich/TeamN/blob/stage_one/resources/Kathryn.jpg) <!-- .element height="50%" width="50%" -->
+<img src="https://github.com/stephanedorotich/TeamN/blob/stage_one/resources/Kathryn.jpg" alt="Kathryn" height="250">
 > Kathryn Lepine is in her fourth year at the University of Calgary studying a combined degree of Computer Science and Finance. Her skills include organization and problem solving and she hopes to pursue a career in Information Technology in the future. In her free time, she enjoys hiking in the mountains, playing tennis, curling, and running. This summer, she hiked 227 kilometers and 22,005 meters in elevation. She is a hard-working individual who values the balance between academics and physical activity in her free time. 
 
 ### Andy Ma: Reviewer
-![Photo of Andy](https://github.com/stephanedorotich/TeamN/blob/stage_one/resources/Andy.jpg) <!-- .element height="50%" width="50%" -->
+<img src="https://github.com/stephanedorotich/TeamN/blob/stage_one/resources/Andy.jpg" alt="Andy" height="250">
 > Hi, my name is Andy Ma. I am a fifth-year student at the University of Calgary. My program of study is a combined Bachelor of Science degree in Computer Science and General Mathematics. In my studies in Computer Science, I have chosen to take courses in a wide variety of fields in Computer Science, including Information Security, Computer Graphics, Human-Computer Interaction, Software Engineering, Theoretical Computer Science, and Computer Networks. As a result, I have a relatively high breadth of knowledge. I have also developed a proficiency in many programming languages, including Python, Java, C, C++, and HTML/CSS/JavaScript/PHP/SQL. From my studies in General Mathematics, I developed strong logical reasoning skills and the ability to solve difficult problems. My academic performance at the University of Calgary demonstrates that I am a fast learner who consistently produces high-quality work in a timely manner. 
 
 ### Macks Tam: Writer, UI developer, Scribe
-![Photo of Macks](https://github.com/stephanedorotich/TeamN/blob/stage_one/resources/Macks.jpg) <!-- .element height="50%" width="50%" -->
+<img src="https://github.com/stephanedorotich/TeamN/blob/stage_one/resources/Macks.jpg" alt="Macks" height="250">
 > Mackenzie (Macks) Tam is a third year Computer Science Major at the University of Calgary. His skills include teamwork, critical thinking, and a desire to learn. He worked as a Swim Instructor for the City of Calgary for over 5 years teaching all ages how to swim. He spends his off time running, doing martial arts, and playing guitar. When he doesn’t understand a subject, he spends time learning about it until he has enough knowledge to proceed with the task. Overall, Macks is a friendly, dedicated hard worker who is always looking to learn new skills. 
 
 ### Nicholas Wasilewski: UX developer, Program Architect
-![Photo of Nick](https://github.com/stephanedorotich/TeamN/blob/stage_one/resources/Nick.jpg) <!-- .element height="50%" width="50%" -->
+<img src="https://github.com/stephanedorotich/TeamN/blob/stage_one/resources/Nick.jpg" alt="Nick" height="250">
 > My name is Nicholas Wasilewski and I am in my 4th year of a Computer Science degree at the University of Calgary. I am proficient in programming in many languages such as C, C++, Java, Python, Haskell and Prolog. I have strong skills in communication, teamwork and organization. Most of my hobbies are related to technology.  In my spare time, I like learning about cutting-edge technology, playing computer games and building computers. I also really enjoy outdoor activities such as camping, off-roading and golf. 
 
 ## Project Proposals
@@ -37,3 +37,6 @@ Since the covid-19 pandemic, the food and small package delivery service has sky
 
 ## Team Contract
 Our contract can be viewed [here](https://github.com/stephanedorotich/TeamN/blob/stage_one/stage_one/deliverables/TeamContract%20-%20Team%20N.pdf)
+
+![Photo of Penguin](https://github.com/stephanedorotich/TeamN/blob/stage_one/resources/sliding_penguin.webp)
+Photo Credit - Alfrey Davilla: https://dribbble.com/shots/2728068-Sliding-Penguin
