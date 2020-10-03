@@ -5,22 +5,14 @@ TeamN is a group of dedicated students studying Human-Computer Interaction (HCI)
 Our aim is to become perceptive and insightful designers by studying the user experience and applying our findings
 to our project's development.
 
-## Team Portfolio
-Our [team portfolio](https://teamlepinee.wixsite.com/cpsc481teamn) hosts the deliverables for each completed stage of our project as well as bios for each of our team members.
-
-## Team Contract
-Our [team contract](https://github.com/stephanedorotich/TeamN/blob/stage_one/stage_one/deliverables/teamContract_teamN.pdf) contains a short profile for each team member as well as a group drafted contract that outlines the code of conduct that our members will adhere to for the course of the project.
-
 ## Stage One
-Our stage one deliverables were to:
-- Create an online repository
-- Create an online portfolio
-- Draft a team contract
-- Submit three proposed ideas for the team project.
+For stage one we:
+- Created an online [repository](https://github.com/stephanedorotich/TeamN)
+- Created an online [portfolio](https://teamlepinee.wixsite.com/cpsc481teamn)
+- Drafted a [team contract](https://github.com/stephanedorotich/TeamN/blob/stage_one/stage_one/deliverables/teamContract_teamN.pdf)
+- Submitted a [PDF](https://github.com/stephanedorotich/TeamN/blob/stage_one/stage_one/deliverables/projectProposal_teamN.pdf) with three proposals for the team project.
 
-The projects we proposed are a Schedule Planner to aid users with time management, a Virtual Clothing App that allows users to 'try-on' clothing while shopping online, and a Drone Delivery Command Centre Interface to manage a fleet of drones performing local deliveries.
-
-Our detailed proposals can be found [here](https://github.com/stephanedorotich/TeamN/blob/stage_one/stage_one/deliverables/projectProposal_teamN.pdf).
+As projects, we proposed a Schedule Planner to facilitate time management, a Virtual Clothing App that allows users to 'try-on' clothing while shopping online, and a Drone Delivery Command Centre Interface to manage a fleet of drones performing local deliveries.
 
 ### Team Member Tasks:
 #### Kathryn Lepine:
