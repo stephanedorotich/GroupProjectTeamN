@@ -18,8 +18,8 @@ Our members are:
 For stage one we:
 - Created a [repository](https://github.com/stephanedorotich/TeamN)
 - Created a [portfolio](https://teamlepinee.wixsite.com/cpsc481teamn)
-- Drafted a [team contract](https://github.com/stephanedorotich/TeamN/blob/stage_one/stage_one/deliverables/teamContract_teamN.pdf)
-- Drafted a [PDF](https://github.com/stephanedorotich/TeamN/blob/stage_one/stage_one/deliverables/projectProposal_teamN.pdf) with three project proposals
+- Drafted a [team contract](https://github.com/stephanedorotich/TeamN/blob/master/stage_one/teamContract.pdf)
+- Drafted a [PDF](https://github.com/stephanedorotich/TeamN/blob/master/stage_one/projectProposal.pdf) with three project proposals
 
 We proposed a *Schedule Planner* to facilitate time management, a *Virtual Clothing App* that allows users to 'try-on' clothing while shopping online, and a *Drone Delivery Command Centre Interface* to manage a fleet of drones performing local deliveries.
 
@@ -62,7 +62,7 @@ We proposed a *Schedule Planner* to facilitate time management, a *Virtual Cloth
 
 For stage two we:
   - Conducted user research
-  - Drafted a [user research report](https://github.com/stephanedorotich/TeamN/blob/stage_two/stage_two/deliverables/userResearchReport_TeamN.pdf)
+  - Drafted a [user research report](https://github.com/stephanedorotich/TeamN/blob/master/stage_two/userResearchReport.pdf)
   
 We began by identifying our stakeholders, describing the people and users who are affected by our system. We then selected three IDEO methods we thought were appropriate to understanding our users and applied each. The methods we used were Activity Analysis, Error Analysis, and Scenarios and our findings are summarized in our User Research Report. Reflecting on the research, we also describe 6-8 user tasks that our system could support.
 
