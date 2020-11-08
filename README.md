@@ -38,7 +38,7 @@ We proposed a *Schedule Planner* to facilitate time management, a *Virtual Cloth
 - Create shared files for Team Contract & Project Proposal
 - Write a proposal for the "Schedule Planner"
 
-#### Nick Wasilewsky:
+#### Nick Wasilewski:
 - Complete section A (individual) of Team Contract
 - Write a brief personal bio and provide an accompanying photo
 - Write a proposal for the "Drone Delivery Command Centre Interface"
@@ -79,7 +79,7 @@ We began by identifying our stakeholders, describing the people and users who ar
 - Report on the Error Analysis method
 - Write the Project Description
 
-#### Nick Wasilewsky:
+#### Nick Wasilewski:
 - Participate in brainstorming for each IDEO method
 - Report on the Scenarios method
 
@@ -104,8 +104,10 @@ We began by identifying our stakeholders, describing the people and users who ar
 <details>
 
 For stage three we:
-  - Brainstormed ideas for our system design
+  - Brainstormed ideas for our system design by creating sketches
+  - Created an affinity diagram
   - Reviewed those ideas and developed a unified concept for our system design
+  - Created a storyboard
   - Built a low-fidelity [prototype](https://github.com/stephanedorotich/TeamN/blob/master/stage_three/DFMS_LowFi.pdf) of our system design (using Balsamiq)
   - Evaluated the prototype by performing Cognitive Walkthrough Analyses
   - Recorded a prototype demo video
@@ -124,6 +126,7 @@ Each team member participated in the following tasks:
 #### Kathryn Lepine:
 - Draw a new sketch for 'Drone History' based on our learnings from the Affinity Diagramming session
 - Develop a vertical prototype for 'Drone History'
+- Aggregate preliminary prototypes for each task to a low-fidelity prototype for the whole system
 - Perform a Cognitive Walkthrough Analysis for 'Drone History'
 - Create a skeleton PowerPoint presentation for the team
 - Present the Affinity Diagram
@@ -133,12 +136,12 @@ Each team member participated in the following tasks:
 #### Macks Tam:
 - Draw a new sketch for 'Map View' based on our learnings from the Affinity Diagramming session
 - Develop a vertical prototype for 'Map View'
-- Aggregate preliminary prototypes (after updates) to a final low-fidelity prototype
 - Perform a Cognitive Walkthrough Analysis for 'Map View'
+- Made improvements to low-fidelity prototype after Cognitive Walkthrough analyses
 - Present the Introduction
 - Present the Project Description
 
-#### Nicholas Wasilewsky:
+#### Nicholas Wasilewski:
 - Finalize the Affinity Diagram by uploading sketch pictures
 - Design a storyboard to illustrate a context of use of our system
 - Perform a Cognitive Walkthrough Analysis for 'Drone Status'
@@ -148,13 +151,14 @@ Each team member participated in the following tasks:
 - Draw sketches for our horizontal tasks based on our learnings from the Affinity Diagramming session
 - Develop a horizontal prototype for 6 tasks
 - Ensure correctness of the final low-fidelity prototype
-- Review the stage report
 - Present the Prototyping Discussion
 - Present the Cognitive Walkthrough Analysis
+- Review work done by all team members
 - Submit the deliverables
 
 #### Stéphane Dorotich:
 - Facilitate team meetings and write minutes for them
+- Connected affinity diagram themes
 - Draw a new sketch for 'Drone Status' based on our learnings from the Affinity Diagramming session
 - Develop a vertical prototype for 'Drone Status'
 - Present the Ideation Process
