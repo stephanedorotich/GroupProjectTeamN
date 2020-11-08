@@ -105,7 +105,7 @@ We began by identifying our stakeholders, describing the people and users who ar
 
 For stage three we:
   - Brainstormed ideas for our system design by creating sketches
-  - Created an affinity diagram
+  - Created an Affinity Diagram
   - Reviewed those ideas and developed a unified concept for our system design
   - Created a storyboard
   - Built a low-fidelity [prototype](https://github.com/stephanedorotich/TeamN/blob/master/stage_three/DFMS_LowFi.pdf) of our system design (using Balsamiq)
