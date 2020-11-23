@@ -111,7 +111,7 @@ For stage three we:
   - Built a low-fidelity [prototype](https://github.com/stephanedorotich/TeamN/blob/master/stage_three/DFMS_LowFi.pdf) of our system design (using Balsamiq)
   - Evaluated the prototype by performing Cognitive Walkthrough Analyses
   - Recorded a prototype demo video
-  - Prepared a [presentation](https://github.com/stephanedorotich/TeamN/blob/master/stage_three/stageThreePresentation.pptx) to report and reflect on the stage
+  - Prepared a [presentation](https://github.com/stephanedorotich/TeamN/blob/master/stage_three/stageThreePresentation.mp4) to report and reflect on the stage
   - Wrote a [stage report](https://github.com/stephanedorotich/TeamN/blob/master/stage_three/stageThreeReport.pdf)
   
 <details>
@@ -165,6 +165,77 @@ Each team member participated in the following tasks:
 - Present the Conclusion
 - Update the GitHub repository
 - Write the stage report
+
+</details>
+</details>
+
+## Stage Four
+<details>
+
+For stage four we:
+
+  - Built a high-fidelity prototype for our Drone Fleet Management System (DFMS) using [Figma](https://www.figma.com/)
+  - Performed a heuristic evaluation of our prototype by applying Jakob Nielsen's 10 usability heuristics
+  - Improved our prototype by making changes based on the findings of the Heuristic Evaluations
+  - Recorded a demo video for our high-fidelity prototype
+  - Prepared a [presentation](https://github.com/stephanedorotich/TeamN/blob/master/stage_four/stageFourPresentation.pptx) for the stage
+  - Wrote a [stage report](https://github.com/stephanedorotich/TeamN/blob/master/stage_four/stageFourReport.pdf)
+  
+<details>
+   <summary>Stage Four Tasks</summary>
+   
+#### Kathryn Lepine:
+- Prototype the 'Drone List' page
+- Perform a Heuristic Evaluation of the prototype
+- Create the PowerPoint presentation
+- Present the:
+  - Project Description
+  - Tasks
+  - Software Selection
+  - Heuristic Evaluation Process
+  - Before and After Screenshots
+  - Conclusion
+- Update the [team portfolio](https://teamlepinee.wixsite.com/cpsc481teamn)
+
+#### Macks Tam:
+- Prototype the 'Drone Status' pop-up
+- Perform a Heuristic Evaluation of the prototype
+- Write the Stage Four Report:
+  - Project Description
+  - Updated Task Lists
+  - Heuristic Evaluation Process
+  - Heuristic Evaluation Findings
+  - Reflection
+
+#### Nicholas Wasilewski:
+- Prototype the 'Drone History' page
+- Review the three Heuristic Evaluations and compare with Stéphane Dorotich
+- Record the prototype demo video
+
+#### Andy Ma:
+- Perform a Heuristic Evaluation of the prototype
+- Prototype the horizontal tasks:
+  - Login
+  - Fleet Statistics
+  - Manual Control
+  - Issue Advisory
+  - Register Drone
+- Implement and record the changes recommended by the Heuristic Evaluation findings
+- Review the report and presentation
+- Submit the deliverables
+
+#### Stéphane Dorotich:
+- Facilitate team meetings
+- Initialize Figma prototype, set colour & text Styles, and build a page template
+- Prototype the 'Map' page
+- Review the three Heuristic Evaluations and compare with Nicholas Wasilewski
+- Summarize findings from the Heuristic Evaluations
+- Present the Heuristic Evaluation:
+  - Findings
+  - Discussion
+  - Actions
+- Format the report and add its appendix
+- Update the GitHub repository
 
 </details>
 </details>
