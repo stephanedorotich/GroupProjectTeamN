@@ -251,8 +251,8 @@ For stage four we:
 For stage five we:
 
   - Upgraded our high-fidelity prototype for our Drone Fleet Management System (DFMS) using [Figma](https://www.figma.com/)
-  - Recorded a demo video for our high-fidelity prototype
-  - Wrote a [stage report](https://github.com/stephanedorotich/TeamN/blob/master/stage_four/stageFourReport.pdf) summarizing and reflecting on the work of all five project stages.
+  - Recorded a [demo video](https://github.com/stephanedorotich/TeamN/blob/master/stage_five/finalDemo.mp4) for our high-fidelity prototype
+  - Wrote a [stage report](https://github.com/stephanedorotich/TeamN/blob/master/stage_five/stageFiveReport.pdf) summarizing and reflecting on the work of all five project stages.
   
 <details>
    <summary>Stage Five Tasks</summary>
