@@ -5,6 +5,8 @@ Team N is a group of dedicated students studying Human-Computer Interaction (HCI
 Our aim is to become perceptive and insightful designers by studying the user experience and applying our findings
 to project development.
 
+Check out our [portfolio](https://teamlepinee.wixsite.com/cpsc481teamn) to see the full development of our project!
+
 Our members are:
 - Stéphane Dorotich
 - Kathryn Lepine
@@ -185,7 +187,7 @@ For stage four we:
    <summary>Stage Four Tasks</summary>
    
 #### Kathryn Lepine:
-- Created a logo for the prototype
+- Create a logo for the prototype
 - Prototype the 'Drone List' page
 - Perform a Heuristic Evaluation of the prototype
 - Create the PowerPoint presentation
@@ -243,6 +245,58 @@ For stage four we:
 </details>
 </details>
 
+## Stage Five
+<details>
+
+For stage five we:
+
+  - Upgraded our high-fidelity prototype for our Drone Fleet Management System (DFMS) using [Figma](https://www.figma.com/)
+  - Recorded a demo video for our high-fidelity prototype
+  - Wrote a [stage report](https://github.com/stephanedorotich/TeamN/blob/master/stage_four/stageFourReport.pdf) summarizing and reflecting on the work of all five project stages.
+  
+<details>
+   <summary>Stage Five Tasks</summary>
+   
+#### Kathryn Lepine:
+- Write the following sections for the report:
+  - Introduction
+  - Design Problem
+  - Design Solution
+  - End-User and Stakeholders
+  - Conclusion
+- Update the [team portfolio](https://teamlepinee.wixsite.com/cpsc481teamn)
+
+#### Macks Tam:
+- Write the following sections for the report:
+  - User Research Methods and Process
+  - User Research Findings
+  - Low-Fidelity Prototype Design - Lessons Learned
+  - High-Fidelity Prototype Design - Lessons Learned
+
+#### Nicholas Wasilewski:
+- Record the prototype demo video
+
+#### Andy Ma:
+- Write the following sections for the report:
+  - Important design choices and justification
+  - Heuristic Evaluation and Findings
+  - Stage Four Heuristic Evaluation Design Changes 
+- Review all work done for stage five
+- Submit the deliverables
+
+#### Stéphane Dorotich:
+- Facilitate team meetings
+- Upgrade the high-fidelity prototype
+- Write the following section for the report:
+  - Executive Summary
+- Format the report and add its appendix
+- Update the GitHub repository
+
+</details>
+</details>
+
 ![Photo of Penguin](https://cdn.dribbble.com/users/1044993/screenshots/2728068/sliding_penguin_dribbble.jpg)
 
 Photo Credit - Alfrey Davilla: https://dribbble.com/shots/2728068-Sliding-Penguin
+
+This repository was developed and maintained by Stéphane Dorotich
